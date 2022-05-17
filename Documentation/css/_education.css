@@ -1,6 +1,11 @@
-/*=========== live_education_area ===========*/
+/*=========== education_area ===========*/
 .live_education_updates {
     position: relative;
     z-index: 1; 
 }
-/*=========== end of live-education-area ===========^/
+
+.future_education_plans {
+    position: relative;
+    z-index: 1;
+}
+/*=========== end of education-area ===========^/
